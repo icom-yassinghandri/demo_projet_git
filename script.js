@@ -1,2 +1,2 @@
-var hello = "Mon super projet"
+var hello = "Bonjour ceci est un message modifié"
 alert(hello)
